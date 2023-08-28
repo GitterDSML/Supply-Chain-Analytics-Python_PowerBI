@@ -1,4 +1,4 @@
-# Supply Chain Analytics - Python & Tableau
+# Supply Chain Analytics - Python & PowerBI
 
 As the main data analyst for Just In Time, you will help solve key shipment and inventory management challenges, analyze supply chain inefficiencies, and create insightful dashboards to inform business stakeholders about potential problems and propose structural business improvements.
 
